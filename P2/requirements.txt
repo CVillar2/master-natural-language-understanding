@@ -1,0 +1,6 @@
+tensorflow~=2.9.1
+conllu~=4.5.2
+numpy~=1.21
+keras~=2.9.0
+scikit-learn~=1.0
+dataclasses~=0.6
