@@ -1,0 +1,325 @@
+# sent_id = en_partut-ud-3
+# text = Distribution of this license does not create an attorney-client relationship.
+1	Distribution	distribution	NOUN	S	Number=Sing	7	nsubj	_	_
+2	of	of	ADP	E	_	4	case	_	_
+3	this	this	DET	DD	Number=Sing|PronType=Dem	4	det	_	_
+4	license	license	NOUN	S	Number=Sing	1	nmod	_	_
+5	does	do	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	not	not	PART	PART	Polarity=Neg	7	advmod	_	_
+7	create	create	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
+9	attorney	attorney	NOUN	S	Number=Sing	12	nmod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	client	client	NOUN	S	Number=Sing	9	compound	_	_
+12	relationship	relationship	NOUN	S	Number=Sing	7	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = en_partut-ud-4
+# text = Creative Commons provides this information on an "as-is" basis.
+1	Creative	Creative	PROPN	SP	_	3	nsubj	_	_
+2	Commons	Commons	PROPN	SP	_	1	flat	_	_
+3	provides	provide	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	this	this	DET	DD	Number=Sing|PronType=Dem	5	det	_	_
+5	information	information	NOUN	S	Number=Sing	3	obj	_	_
+6	on	on	ADP	E	_	13	case	_	_
+7	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	13	det	_	_
+8	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+9	as	as	ADP	E	_	11	mark	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	amod	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	_
+13	basis	basis	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = en_partut-ud-5
+# text = Creative Commons makes no warranties regarding the information provided, and disclaims liability for damages resulting from its use.
+1	Creative	Creative	PROPN	SP	_	3	nsubj	_	_
+2	Commons	Commons	PROPN	SP	_	1	flat	_	_
+3	makes	make	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	no	no	DET	DI	PronType=Ind	5	det	_	_
+5	warranties	warranty	NOUN	S	Number=Plur	3	obj	_	_
+6	regarding	regard	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	5	acl	_	_
+7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
+8	information	information	NOUN	S	Number=Sing	6	obj	_	_
+9	provided	provide	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	12	punct	_	_
+11	and	and	CCONJ	CC	_	12	cc	_	_
+12	disclaims	disclaim	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+13	liability	liability	NOUN	S	Number=Sing	12	obj	_	_
+14	for	for	ADP	E	_	15	case	_	_
+15	damages	damage	NOUN	S	Number=Plur	13	nmod	_	_
+16	resulting	result	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	15	acl	_	_
+17	from	from	ADP	E	_	19	case	_	_
+18	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	19	nmod:poss	_	_
+19	use	use	NOUN	S	Number=Sing	16	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = en_partut-ud-6
+# text = License.
+1	License	license	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = en_partut-ud-8
+# text = The work is protected by copyright and/or other applicable law.
+1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
+2	work	work	NOUN	S	Number=Sing	4	nsubj:pass	_	_
+3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	protected	protect	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
+5	by	by	ADP	E	_	6	case	_	_
+6	copyright	copyright	NOUN	S	Number=Sing	4	obl	_	_
+7	and	and	CCONJ	CC	_	12	cc	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+9	or	or	CCONJ	CC	_	7	conj	_	_
+10	other	other	ADJ	A	Degree=Pos	12	amod	_	_
+11	applicable	applicable	ADJ	A	Degree=Pos	12	amod	_	_
+12	law	law	NOUN	S	Number=Sing	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = en_partut-ud-10
+# text = By exercising any rights to the work provided here, you accept and agree to be bound by the terms of this license.
+1	By	by	ADP	E	_	2	mark	_	_
+2	exercising	exercise	VERB	V	VerbForm=Ger	12	advcl	_	_
+3	any	any	DET	DI	PronType=Ind	4	det	_	_
+4	rights	right	NOUN	S	Number=Plur	2	obj	_	_
+5	to	to	ADP	E	_	7	case	_	_
+6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
+7	work	work	NOUN	S	Number=Sing	2	obl	_	_
+8	provided	provide	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	_
+9	here	here	ADV	B	_	8	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	2	punct	_	_
+11	you	you	PRON	PE	Person=2|PronType=Prs	12	nsubj	_	_
+12	accept	accept	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	and	and	CCONJ	CC	_	14	cc	_	_
+14	agree	agree	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	conj	_	_
+15	to	to	PART	PART	_	17	mark	_	_
+16	be	be	AUX	VA	VerbForm=Inf	17	aux:pass	_	_
+17	bound	bind	VERB	V	Tense=Past|VerbForm=Part	14	ccomp	_	_
+18	by	by	ADP	E	_	20	case	_	_
+19	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
+20	terms	term	NOUN	S	Number=Plur	17	obl	_	_
+21	of	of	ADP	E	_	23	case	_	_
+22	this	this	DET	DD	Number=Sing|PronType=Dem	23	det	_	_
+23	license	license	NOUN	S	Number=Sing	20	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = en_partut-ud-11
+# text = The Licensor grants You the rights contained here in consideration of your acceptance of such terms and conditions.
+1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
+2	Licensor	licensor	NOUN	S	Number=Sing	3	nsubj	_	_
+3	grants	grant	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	You	you	PRON	PE	Person=2|PronType=Prs	3	iobj	_	_
+5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
+6	rights	right	NOUN	S	Number=Plur	3	obj	_	_
+7	contained	contain	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
+8	here	here	ADV	B	_	7	advmod	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	consideration	consideration	NOUN	S	Number=Sing	3	obl	_	_
+11	of	of	ADP	E	_	13	case	_	_
+12	your	you	DET	AP	Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+13	acceptance	acceptance	NOUN	S	Number=Sing	10	nmod	_	_
+14	of	of	ADP	E	_	16	case	_	_
+15	such	such	DET	DD	PronType=Dem	16	det	_	_
+16	terms	term	NOUN	S	Number=Plur	13	nmod	_	_
+17	and	and	CCONJ	CC	_	18	cc	_	_
+18	conditions	condition	NOUN	S	Number=Plur	16	conj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = en_partut-ud-13
+# text = A work that constitutes a Collective Work will not be considered a Derivative Work (as defined below) for the purposes of this License.
+1	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	2	det	_	_
+2	work	work	NOUN	S	Number=Sing	11	nsubj:pass	_	_
+3	that	that	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	constitutes	constitute	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
+6	Collective	collective	ADJ	A	Degree=Pos	7	amod	_	_
+7	Work	work	NOUN	S	Number=Sing	4	obj	_	_
+8	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+9	not	not	PART	PART	Polarity=Neg	11	advmod	_	_
+10	be	be	AUX	VA	VerbForm=Inf	11	aux:pass	_	_
+11	considered	consider	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
+12	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
+13	Derivative	derivative	ADJ	A	Degree=Pos	14	amod	_	_
+14	Work	work	NOUN	S	Number=Sing	11	xcomp	_	_
+15	(	(	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+16	as	as	ADP	E	_	17	mark	_	_
+17	defined	define	VERB	V	Tense=Past|VerbForm=Part	14	acl	_	_
+18	below	below	ADV	B	_	17	advmod	_	SpaceAfter=No
+19	)	)	PUNCT	FB	_	17	punct	_	_
+20	for	for	ADP	E	_	22	case	_	_
+21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
+22	purposes	purpose	NOUN	S	Number=Plur	11	obl	_	_
+23	of	of	ADP	E	_	25	case	_	_
+24	this	this	DET	DD	Number=Sing|PronType=Dem	25	det	_	_
+25	License	license	NOUN	S	Number=Sing	22	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = en_partut-ud-14
+# text = "Work" means the copyrightable work of authorship offered under the terms of this License.
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Work	Work	PROPN	SP	_	4	nsubj	_	SpaceAfter=No
+3	"	"	PUNCT	FB	_	2	punct	_	_
+4	means	mean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
+6	copyrightable	copyrightable	ADJ	A	Degree=Pos	7	amod	_	_
+7	work	work	NOUN	S	Number=Sing	4	obj	_	_
+8	of	of	ADP	E	_	9	case	_	_
+9	authorship	authorship	NOUN	S	Number=Sing	7	nmod	_	_
+10	offered	offer	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	_
+11	under	under	ADP	E	_	13	case	_	_
+12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
+13	terms	term	NOUN	S	Number=Plur	10	obl	_	_
+14	of	of	ADP	E	_	16	case	_	_
+15	this	this	DET	DD	Number=Sing|PronType=Dem	16	det	_	_
+16	License	license	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = en_partut-ud-15
+# text = Attribution, ShareAlike.
+1	Attribution	attribution	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ShareAlike	ShareAlike	PROPN	SP	_	1	flat	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = en_partut-ud-16
+# text = 2. Fair Use Rights.
+1	2	2	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	Fair	fair	ADJ	A	Degree=Pos	4	amod	_	_
+4	Use	use	NOUN	S	Number=Sing	5	nmod	_	_
+5	Rights	right	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = en_partut-ud-17
+# text = 3. License Grant.
+1	3	3	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	License	license	NOUN	S	Number=Sing	4	nmod	_	_
+4	Grant	grant	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = en_partut-ud-18
+# text = Subject to the terms and conditions of this License, Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to exercise the rights in the Work as stated below:
+1	Subject	subject	ADJ	A	Degree=Pos	11	amod	_	_
+2	to	to	ADP	E	_	4	case	_	_
+3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
+4	terms	term	NOUN	S	Number=Plur	1	obl	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	conditions	condition	NOUN	S	Number=Plur	4	conj	_	_
+7	of	of	ADP	E	_	9	case	_	_
+8	this	this	DET	DD	Number=Sing|PronType=Dem	9	det	_	_
+9	License	license	NOUN	S	Number=Sing	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	1	punct	_	_
+11	Licensor	Licensor	PROPN	SP	_	13	nsubj	_	_
+12	hereby	hereby	ADV	B	_	13	advmod	_	_
+13	grants	grant	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	You	you	PRON	PE	Person=2|PronType=Prs	13	iobj	_	_
+15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	36	det	_	_
+16	worldwide	worldwide	ADJ	A	Degree=Pos	36	amod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	20	punct	_	_
+18	royalty	royalty	NOUN	S	Number=Sing	20	obl	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	free	free	ADJ	A	Degree=Pos	16	conj	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	24	punct	_	_
+22	non	non	ADV	BN	PronType=Neg	24	advmod	_	SpaceAfter=No
+23	-	-	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	exclusive	exclusive	ADJ	A	Degree=Pos	16	conj	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	26	punct	_	_
+26	perpetual	perpetual	ADJ	A	Degree=Pos	16	conj	_	_
+27	(	(	PUNCT	FB	_	30	punct	_	SpaceAfter=No
+28	for	for	ADP	E	_	30	case	_	_
+29	the	the	DET	RD	Definite=Def|PronType=Art	30	det	_	_
+30	duration	duration	NOUN	S	Number=Sing	26	obl	_	_
+31	of	of	ADP	E	_	34	case	_	_
+32	the	the	DET	RD	Definite=Def|PronType=Art	34	det	_	_
+33	applicable	applicable	ADJ	A	Degree=Pos	34	amod	_	_
+34	copyright	copyright	NOUN	S	Number=Sing	30	nmod	_	SpaceAfter=No
+35	)	)	PUNCT	FB	_	30	punct	_	_
+36	license	license	NOUN	S	Number=Sing	13	obj	_	_
+37	to	to	PART	PART	_	38	mark	_	_
+38	exercise	exercise	VERB	V	VerbForm=Inf	36	acl	_	_
+39	the	the	DET	RD	Definite=Def|PronType=Art	40	det	_	_
+40	rights	right	NOUN	S	Number=Plur	38	obj	_	_
+41	in	in	ADP	E	_	43	case	_	_
+42	the	the	DET	RD	Definite=Def|PronType=Art	43	det	_	_
+43	Work	work	NOUN	S	Number=Sing	40	obl	_	_
+44	as	as	ADP	E	_	45	mark	_	_
+45	stated	state	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	38	advcl	_	_
+46	below	below	ADV	B	_	45	advmod	_	SpaceAfter=No
+47	:	:	PUNCT	FC	_	13	punct	_	_
+
+# sent_id = en_partut-ud-19
+# text = to reproduce the Work, to incorporate the Work into one or more Collective Works, and to reproduce the Work as incorporated in the Collective Works;
+1	to	to	PART	PART	_	2	mark	_	_
+2	reproduce	reproduce	VERB	V	VerbForm=Inf	0	root	_	_
+3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
+4	Work	work	NOUN	S	Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	to	to	PART	PART	_	7	mark	_	_
+7	incorporate	incorporate	VERB	V	VerbForm=Inf	2	conj	_	_
+8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
+9	Work	work	NOUN	S	Number=Sing	7	obj	_	_
+10	into	into	ADP	E	_	15	case	_	_
+11	one	one	NUM	N	NumType=Card	15	nummod	_	_
+12	or	or	CCONJ	CC	_	13	cc	_	_
+13	more	more	ADV	B	Degree=Cmp	11	conj	_	_
+14	Collective	collective	ADJ	A	Degree=Pos	15	amod	_	_
+15	Works	work	NOUN	S	Number=Plur	7	obl	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	19	punct	_	_
+17	and	and	CCONJ	CC	_	19	cc	_	_
+18	to	to	PART	PART	_	19	mark	_	_
+19	reproduce	reproduce	VERB	V	VerbForm=Inf	2	conj	_	_
+20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
+21	Work	work	NOUN	S	Number=Sing	19	obj	_	_
+22	as	as	ADP	E	_	23	mark	_	_
+23	incorporated	incorporate	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	advcl	_	_
+24	in	in	ADP	E	_	27	case	_	_
+25	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
+26	Collective	collective	ADJ	A	Degree=Pos	27	amod	_	_
+27	Works	works	NOUN	S	Number=Sing	23	obl	_	SpaceAfter=No
+28	;	;	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = en_partut-ud-20
+# text = to create and reproduce Derivative Works;
+1	to	to	PART	PART	_	2	mark	_	_
+2	create	create	VERB	V	VerbForm=Inf	0	root	_	_
+3	and	and	CCONJ	CC	_	4	cc	_	_
+4	reproduce	reproduce	VERB	V	VerbForm=Inf	2	conj	_	_
+5	Derivative	derivative	ADJ	A	Degree=Pos	6	amod	_	_
+6	Works	work	NOUN	S	Number=Plur	2	obj	_	SpaceAfter=No
+7	;	;	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = en_partut-ud-21
+# text = to distribute copies or phonorecords of, display publicly, perform publicly, and perform publicly by means of a digital audio transmission the Work including as incorporated in Collective Works;
+1	to	to	PART	PART	_	2	mark	_	_
+2	distribute	distribute	VERB	V	VerbForm=Inf	0	root	_	_
+3	copies	copy	NOUN	S	Number=Plur	2	obj	_	_
+4	or	or	CCONJ	CC	_	5	cc	_	_
+5	phonorecords	phonorecord	NOUN	S	Number=Plur	3	conj	_	_
+6	of	of	ADP	E	_	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	display	display	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	publicly	publicly	ADV	B	_	8	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	perform	perform	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	publicly	publicly	ADV	B	_	11	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	15	punct	_	_
+14	and	and	CCONJ	CC	_	15	cc	_	_
+15	perform	perform	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	conj	_	_
+16	publicly	publicly	ADV	B	_	15	advmod	_	_
+17	by	by	ADP	E	_	23	case	_	_
+18	means	means	NOUN	S	Number=Sing	17	fixed	_	_
+19	of	of	ADP	E	_	17	fixed	_	_
+20	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	23	det	_	_
+21	digital	digital	ADJ	A	Degree=Pos	23	amod	_	_
+22	audio	audio	NOUN	S	Number=Sing	23	nmod	_	_
+23	transmission	transmission	NOUN	S	Number=Sing	15	obl	_	_
+24	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
+25	Work	work	NOUN	S	Number=Sing	15	obj	_	_
+26	including	include	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	25	acl	_	_
+27	as	as	ADP	E	_	28	mark	_	_
+28	incorporated	incorporate	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	26	advcl	_	_
+29	in	in	ADP	E	_	31	case	_	_
+30	Collective	collective	ADJ	A	Degree=Pos	31	amod	_	_
+31	Works	work	NOUN	S	Number=Plur	28	obl	_	SpaceAfter=No
+32	;	;	PUNCT	FC	_	2	punct	_	_
+
